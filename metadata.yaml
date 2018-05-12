@@ -1,0 +1,49 @@
+_repo: The-Surpising-Adventures-of-Sir-Toady-Lion-With-Those-of-General-Napoleon-Smith_39340
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Browne, Gordon
+    alias: Browne, Gordon Frederick
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '8569'
+    url: http://www.gutenberg.org/2009/agents/8569
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crockett, S. R. (Samuel Rutherford)
+    alias: Crockett, Samuel Rutherford
+    birthdate: 1860
+    deathdate: 1914
+    gutenberg_agent_id: '1590'
+    url: http://www.gutenberg.org/2009/agents/1590
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
+description: ''
+gutenberg_issued: '2012-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcc 'PZ'
+- !lcsh 'Battles -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Wit and humor, Juvenile'
+- !lcsh 'Love stories'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Castles -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: "The Surprising Adventures of Sir Toady Lion with Those of General Napoleon\
+  \ Smith\r\nAn Improving History for Old Boys, Young Boys, Good Boys, Bad Boys, Big\
+  \ Boys, Little Boys, Cow Boys, and Tom-Boys"
+url: http://www.gutenberg.org/ebooks/39340
