@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1590
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39340#The-Surpising-Adventures-of-Sir-Toady-Lion-With-Those-of-General-Napoleon-Smith
 gutenberg_issued: '2012-04-01'
 gutenberg_type: Text
 identifiers:
